@@ -1,6 +1,6 @@
 {
   "name": "geo-photowall",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://kawaiier.github.io/GeoPhotoWall/", 
   "private": true,
   "dependencies": {
