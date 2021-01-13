@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geophotowall/static/css/main.2f9e06f3.chunk.css",
+    "main.js": "/geophotowall/static/js/main.1c3eece2.chunk.js",
+    "main.js.map": "/geophotowall/static/js/main.1c3eece2.chunk.js.map",
+    "runtime-main.js": "/geophotowall/static/js/runtime-main.f1942c70.js",
+    "runtime-main.js.map": "/geophotowall/static/js/runtime-main.f1942c70.js.map",
+    "static/js/2.06fd1b61.chunk.js": "/geophotowall/static/js/2.06fd1b61.chunk.js",
+    "static/js/2.06fd1b61.chunk.js.map": "/geophotowall/static/js/2.06fd1b61.chunk.js.map",
+    "static/js/3.301ba3e4.chunk.js": "/geophotowall/static/js/3.301ba3e4.chunk.js",
+    "static/js/3.301ba3e4.chunk.js.map": "/geophotowall/static/js/3.301ba3e4.chunk.js.map",
+    "index.html": "/geophotowall/index.html",
+    "static/css/main.2f9e06f3.chunk.css.map": "/geophotowall/static/css/main.2f9e06f3.chunk.css.map",
+    "static/js/2.06fd1b61.chunk.js.LICENSE.txt": "/geophotowall/static/js/2.06fd1b61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1942c70.js",
+    "static/js/2.06fd1b61.chunk.js",
+    "static/css/main.2f9e06f3.chunk.css",
+    "static/js/main.1c3eece2.chunk.js"
+  ]
+}
