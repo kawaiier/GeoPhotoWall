@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geophotowall/static/css/main.2f9e06f3.chunk.css",
-    "main.js": "/geophotowall/static/js/main.1c3eece2.chunk.js",
-    "main.js.map": "/geophotowall/static/js/main.1c3eece2.chunk.js.map",
+    "main.js": "/geophotowall/static/js/main.6cbdf404.chunk.js",
+    "main.js.map": "/geophotowall/static/js/main.6cbdf404.chunk.js.map",
     "runtime-main.js": "/geophotowall/static/js/runtime-main.f1942c70.js",
     "runtime-main.js.map": "/geophotowall/static/js/runtime-main.f1942c70.js.map",
     "static/js/2.06fd1b61.chunk.js": "/geophotowall/static/js/2.06fd1b61.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f1942c70.js",
     "static/js/2.06fd1b61.chunk.js",
     "static/css/main.2f9e06f3.chunk.css",
-    "static/js/main.1c3eece2.chunk.js"
+    "static/js/main.6cbdf404.chunk.js"
   ]
 }
