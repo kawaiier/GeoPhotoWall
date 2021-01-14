@@ -1,8 +1,11 @@
 import { commentsAPI } from '../api/api';
 const SET_PHOTOS = 'SET-PHOTOS';
+const TOGGLE_IS_LOADING = 'TOGGLE-IS-LOADING';
+
 
 let initialState = {
-    photosData:[]
+    photosData:[],
+    isLoading: false
 };
 
 const mainReducer = (state = initialState, action) => {
@@ -13,6 +16,12 @@ const mainReducer = (state = initialState, action) => {
                 photosData: action.photos
             }
         }
+        case TOGGLE_IS_LOADING: {
+            return {
+                ...state,
+                isLoading: action.isLoading
+            }
+        }
         default:
             return state;
 
@@ -20,11 +29,14 @@ const mainReducer = (state = initialState, action) => {
 }
 
 export const setPhotos = (photos) => ({type: SET_PHOTOS, photos})
+export const toggleIsLoading = (isLoading) => ({type: TOGGLE_IS_LOADING, isLoading})
 
 export const getPhotos = () => {
     return (dispatch) => {
+        dispatch(toggleIsLoading(true))
         commentsAPI.getPhotos().then(data => {
             dispatch(setPhotos(data))
+            dispatch(toggleIsLoading(false))
         })
     }
 }

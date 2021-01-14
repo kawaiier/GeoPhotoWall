@@ -37,3 +37,10 @@ h1 {
     -o-transition:      width 1000ms ease;
     transition:         width 1000ms ease;
 }
+
+.Preloader {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

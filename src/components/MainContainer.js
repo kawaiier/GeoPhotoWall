@@ -2,6 +2,7 @@ import React from 'react';
 import { connect } from "react-redux";
 import Main from './Main';
 import { getPhotos } from '../redux/main-reducer';
+import Preloader from './Preloader';
 
 class MainContainer extends React.Component {
     componentDidMount(){
@@ -10,16 +11,20 @@ class MainContainer extends React.Component {
     
     render() {
         return (
+            <>
             <Main 
                 photos={this.props.photosData}
             />
+            {this.props.isLoading ? <Preloader/> : null}
+            </>
         )
     }
 }
 
 let mapStateToProps = (state) =>{
     return {
-        photosData: state.mainPage.photosData
+        photosData: state.mainPage.photosData,
+        isLoading: state.mainPage.isLoading
     }
 }
 
