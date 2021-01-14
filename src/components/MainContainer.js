@@ -1,6 +1,5 @@
 import React from 'react';
 import { connect } from "react-redux";
-
 import Main from './Main';
 import { getPhotos } from '../redux/main-reducer';
 
@@ -8,7 +7,7 @@ class MainContainer extends React.Component {
     componentDidMount(){
        this.props.getPhotos();
     }
-
+    
     render() {
         return (
             <Main 

@@ -8,7 +8,7 @@ let Main = (props) => {
         <div className="Feed">
             {props.photos.map(photo => <Post img={photo}/>)}
         </div>
-        </>
+    </>
     )
 }
 
