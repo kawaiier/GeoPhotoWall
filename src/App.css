@@ -44,3 +44,19 @@ h1 {
   margin-right: auto;
   width: 50%;
 }
+
+.App-footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  /* width: 100%; */
+  background-color: grey;
+  color: white;
+  text-align: right;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.App-footer a {
+  color: wheat;
+}

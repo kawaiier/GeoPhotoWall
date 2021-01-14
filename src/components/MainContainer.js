@@ -3,6 +3,7 @@ import { connect } from "react-redux";
 import Main from './Main';
 import { getPhotos } from '../redux/main-reducer';
 import Preloader from './Preloader';
+import Footer from './Footer';
 
 class MainContainer extends React.Component {
     componentDidMount(){
@@ -16,7 +17,9 @@ class MainContainer extends React.Component {
                 photos={this.props.photosData}
             />
             {this.props.isLoading ? <Preloader/> : null}
+            <Footer/>
             </>
+            
         )
     }
 }
