@@ -5,7 +5,7 @@ Some of them are from the US state, sorry for that.
 
 ➡️ https://kawaiier.github.io/geophotowall/
 
-## TODO
+## Things To Be Done
 - [X] Mobile version
 - [ ] Load more photos on scroll
 - [ ] Randomize photos
