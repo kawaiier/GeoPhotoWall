@@ -1,11 +1,15 @@
 # GeoPhotoWall
-An app for Georgia lovers. Photowall of 50 Georgian photos.
+An app for Georgia lovers. Photowall of 50 Georgian photos from [Pexels](https://www.pexels.com/). Click any photo to see it on the website.
 
 Some of them are from the US state, sorry for that.
 
-Photos from [Pexels](https://www.pexels.com/).
-
 ➡️ https://kawaiier.github.io/geophotowall/
+
+## TODO
+- [X] Mobile version
+- [ ] Load more photos on scroll
+- [ ] Randomize photos
+- [ ] Show only photos of Sakartvelo
 
 ## Components used
 - react
