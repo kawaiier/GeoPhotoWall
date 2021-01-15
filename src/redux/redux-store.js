@@ -1,9 +1,9 @@
-import {applyMiddleware, combineReducers, createStore} from "redux";
+import { applyMiddleware, combineReducers, createStore } from "redux";
 import mainReducer from "./main-reducer";
-import thunkMiddleware from 'redux-thunk';
+import thunkMiddleware from "redux-thunk";
 
 let reducers = combineReducers({
-    mainPage: mainReducer,
+  mainPage: mainReducer,
 });
 
 let store = createStore(reducers, applyMiddleware(thunkMiddleware));
