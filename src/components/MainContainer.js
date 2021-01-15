@@ -19,7 +19,7 @@ class MainContainer extends React.Component {
             {this.props.isLoading ? <Preloader/> : null}
             <Footer/>
             </>
-            
+             
         )
     }
 }

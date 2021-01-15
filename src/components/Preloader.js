@@ -1,5 +1,5 @@
 import React from 'react';
-import preLoad from '../assets/loading.svg'
+import preLoad from '../assets/loading2.svg'
 
 const Preloader = (props) => {
     return (
