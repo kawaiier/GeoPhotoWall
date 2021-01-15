@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GeoPhotoWall/static/css/main.67e11962.chunk.css",
-    "main.js": "/GeoPhotoWall/static/js/main.fe9c4a8f.chunk.js",
-    "main.js.map": "/GeoPhotoWall/static/js/main.fe9c4a8f.chunk.js.map",
+    "main.css": "/GeoPhotoWall/static/css/main.40b73423.chunk.css",
+    "main.js": "/GeoPhotoWall/static/js/main.dbadae9a.chunk.js",
+    "main.js.map": "/GeoPhotoWall/static/js/main.dbadae9a.chunk.js.map",
     "runtime-main.js": "/GeoPhotoWall/static/js/runtime-main.371c0b2b.js",
     "runtime-main.js.map": "/GeoPhotoWall/static/js/runtime-main.371c0b2b.js.map",
     "static/js/2.ae18e00d.chunk.js": "/GeoPhotoWall/static/js/2.ae18e00d.chunk.js",
     "static/js/2.ae18e00d.chunk.js.map": "/GeoPhotoWall/static/js/2.ae18e00d.chunk.js.map",
     "index.html": "/GeoPhotoWall/index.html",
-    "static/css/main.67e11962.chunk.css.map": "/GeoPhotoWall/static/css/main.67e11962.chunk.css.map",
+    "static/css/main.40b73423.chunk.css.map": "/GeoPhotoWall/static/css/main.40b73423.chunk.css.map",
     "static/js/2.ae18e00d.chunk.js.LICENSE.txt": "/GeoPhotoWall/static/js/2.ae18e00d.chunk.js.LICENSE.txt",
-    "static/media/loading.491eaef9.svg": "/GeoPhotoWall/static/media/loading.491eaef9.svg"
+    "static/media/loading2.5743162d.svg": "/GeoPhotoWall/static/media/loading2.5743162d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.371c0b2b.js",
     "static/js/2.ae18e00d.chunk.js",
-    "static/css/main.67e11962.chunk.css",
-    "static/js/main.fe9c4a8f.chunk.js"
+    "static/css/main.40b73423.chunk.css",
+    "static/js/main.dbadae9a.chunk.js"
   ]
 }
