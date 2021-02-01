@@ -6,6 +6,7 @@ Some of them are from the US state, sorry for that.
 
 💁‍♂️ https://kawaiier.github.io/geophotowall/
 
+![screenshot](https://kawaiier.github.io/assets/images/gpw-screen.png)
 ## How to deploy
 1. Get a free API key at [Pexels](https://www.pexels.com/api/).
 2. Clone this repository.
