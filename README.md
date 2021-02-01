@@ -2,7 +2,7 @@
 # GeoPhotoWall
 An app for Georgia lovers. Photowall of 50 Georgian photos from [Pexels](https://www.pexels.com/). Click any photo to see it on the website.
 
-Some of them are from the US state, sorry for that.
+Some of them are from the US state, sorry for that (see #3). 
 
 💁‍♂️ https://kawaiier.github.io/geophotowall/
 
@@ -17,13 +17,13 @@ Some of them are from the US state, sorry for that.
 
 ## Things To Be Done
 - [X] Mobile version
-- [ ] Load more photos on scroll
-- [ ] Randomize photos
-- [ ] Show only photos of Sakartvelo
+- [ ] Load more photos on scroll #1
+- [ ] Randomize photos #2
+- [ ] Show only photos of Sakartvelo #3
 
 ## Components used
-- react
-- redux
-- axios
-- pexels
-- gh-pages
+- [react](https://reactjs.org/)
+- [redux](https://redux.js.org/)
+- [axios](https://github.com/axios/axios)
+- [pexels](https://github.com/pexels/pexels-javascript)
+- [gh-pages](https://github.com/tschaub/gh-pages)
