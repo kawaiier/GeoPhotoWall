@@ -17,3 +17,11 @@ Some of them are from the US state, sorry for that.
 - axios
 - pexels
 - gh-pages
+
+## How to deploy
+1. Get an API key at [Pexels](https://www.pexels.com/api/).
+2. Clone this repository.
+3. Create `.env` file in `root` folder.
+4. Add your API key to `.env` like this `REACT_APP_KEY=XXXXXXXXXXXXXXX`.
+5. Run `npm install`.
+6. Run `npm start` to start test server.
